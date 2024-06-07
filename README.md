@@ -40,10 +40,14 @@ Contact me! 😄
 
 <h1 align="left"><a href="https://www.codewars.com/users/djg-91" target="_blank">Codewars Stats</a></h1>
 
-![Codewars](https://github.r2v.ch/codewars?user=djg-91&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=djg-91&top_languages=true&theme=dark&stroke=%23BB432C&hide_clan=true)
 
 <h1 align="left"><a href="https://leetcode.com/u/DJG-91/" target="_blank">LeetCode Stats</a></h1>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DJG-91)
+
+<h1 align="left"><a href="https://leetcode.com/u/DJG-91/" target="_blank">GitHub Stats</a></h1>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=djg-91&show_icons=true&theme=dark)
 
 
