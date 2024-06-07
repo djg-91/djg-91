@@ -5,11 +5,27 @@
 <h1 align="left"><a href="https://devicon.dev/" target="_blank">🛠️ Languages & Tools</a></h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-plain.svg" alt="Drupal" width="50" height="50" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" width="50" height="50" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS3" width="50" height="50">
+  <img src="./icons/Ableton-Dark.svg" alt="Ableton" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/Bash-Dark.svg" alt="Bash" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/Flask-Dark.svg" alt="Flask" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/Git.svg" alt="Git" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/Gmail-Dark.svg" alt="Gmail" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/HTML.svg" alt="HTML" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/Java-Dark.svg" alt="Java" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/JavaScript.svg" alt="JavaScript" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/JQuery.svg" alt="jQuery" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/LinkedIn.svg" alt="LinkedIn" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/Linux-Dark.svg" alt="Linux" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/PHP-Dark.svg" alt="PHP" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/Postman.svg" alt="Postman" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/Powershell-Dark.svg" alt="Powershell" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/Python-Dark.svg" alt="Python" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/RabbitMQ-Dark.svg" alt="RabbitMQ" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/React-Dark.svg" alt="React" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/Regex-Dark.svg" alt="Regex" width="50" height="50" style="margin-right: 10px;">
+  <img src="./icons/StackOverflow-Dark.svg" alt="StackOverflow" width="50" height="50">
 </p>
 
 <h1 align="left"><a href="https://www.codewars.com/users/djg-91" target="_blank">Codewars Stats</a></h1>
